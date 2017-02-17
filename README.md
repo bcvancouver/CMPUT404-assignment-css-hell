@@ -21,4 +21,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part 1
+======
+Pride and Prejudice: Changed title and paragraph font to Georgia, added padding for paragraph, changed line spacing, changed text size for both title and paragraph.
 

@@ -65,7 +65,8 @@
 
    Make 1 ugly CSS and 1 good CSS just like the design_hell comic.
 
-   You should make a page good enough you'd actually use it as your homepage.
+   You should make a page good enough y
+   ou'd actually use it as your homepage.
 
 *** Requirements
 
