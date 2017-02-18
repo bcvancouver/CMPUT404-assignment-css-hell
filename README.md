@@ -26,5 +26,8 @@ Part 1
 Changed title and paragraph font to Georgia   
 Added padding for paragraph   
 changed line spacing   
-changed text size for both title and paragraph.
+changed text size for both title, paragraph and header  
+changed title font colour to brown  
+modified background colour to yellowish colour  
+Scaled non-cover pictures.
 
