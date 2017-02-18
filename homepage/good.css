@@ -10,7 +10,7 @@
     opacity: 0.4;
 }
 
-div#sidebar span{
+div#sidebar {
     position: fixed;
     width: 13em;
     height: 50px;
@@ -27,6 +27,8 @@ div#sidebar span{
 div#sidebar p{
     background-color: cornsilk;
     text-align: left;
+    padding-left: 5%;
+    padding-right: 10%;
 }
 
 div.page-header {
