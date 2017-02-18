@@ -37,3 +37,5 @@ How to stretch and scale a CSS image in background:
 http://stackoverflow.com/questions/1150163/stretch-and-scale-a-css-image-in-the-background-with-css-only
 How to spin image in CSS   
 http://stackoverflow.com/questions/16771225/css3-rotate-animation
+CSS and HTML syntax  
+https://www.w3schools.com/
