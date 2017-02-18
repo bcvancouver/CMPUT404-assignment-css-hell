@@ -31,6 +31,11 @@ changed title font colour to brown
 modified background colour to yellowish colour  
 Scaled non-cover pictures.
 
+Part 2
+======
+Husky Picture Credits:  
+http://theodysseyonline.com/texas-am/if-sororities-dogs/77086 from Odyssey on Pinterest
+
 Reference
 =========
 How to stretch and scale a CSS image in background:   
