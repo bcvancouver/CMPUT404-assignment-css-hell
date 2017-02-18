@@ -31,3 +31,8 @@ changed title font colour to brown
 modified background colour to yellowish colour  
 Scaled non-cover pictures.
 
+Reference
+=========
+How to stretch and scale a CSS image in background:   
+http://stackoverflow.com/questions/1150163/stretch-and-scale-a-css-image-in-the-background-with-css-only
+

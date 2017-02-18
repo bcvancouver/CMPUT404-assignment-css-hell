@@ -1,0 +1,70 @@
+#background {
+    /*width: auto;
+    min-height: auto;*/
+    position: fixed;
+    left: 0em;
+    top: 0em;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.4;
+}
+
+div#sidebar span{
+    position: fixed;
+    width: 13em;
+    height: 50px;
+    right: 0;
+    top: 10em;
+    bottom: 0em;
+    left: auto;
+    background-color: cornsilk;
+    text-align: center;
+    font-family: Calibri;
+    padding: 1%;
+}
+
+div#sidebar p{
+    background-color: cornsilk;
+    text-align: left;
+}
+
+div.page-header {
+    text-align: center;
+    padding: 2%;
+    font-family: Calibri;
+    background-color: steelblue;
+    border: 0.1em solid;
+}
+
+div.page-header h1{
+    font-style: inherit;
+    font-size-adjust: 1.0;
+}
+
+#menu {
+    text-align: center;
+    border: 0.1em solid;
+    padding: 1%;
+    background-color: darkgrey;
+}
+
+#menu a{
+    padding: 2%;
+    font-family: Calibri;
+}
+
+#menu a:hover {
+    background-color: white;
+}
+
+div.content {
+    padding: 2%;
+    font-family: Calibri;
+}
+
+div.content h4{
+    font-size-adjust: 1;
+    font-weight: bold;
+}
+
